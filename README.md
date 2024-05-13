@@ -1,8 +1,8 @@
-[![MasterHead](https://giphy.com/gifs/code-ko7twHhomhk8E)](https://s11saurabh.io)
+
 <h1 align="center">Hi 👋, I'm Saurabh Kumar</h1>
 <h3 align="center">Specializing in full Stack Web Development</h3>
 
-<img align="right" alt="Coding" width="400" src="https://tenor.com/view/web-developer-mycrxn-javascript-php-css-react-wordpress-mongo-db-html-bootsrap-gif-21308149">
+
 
 <p align="left"> <a href="https://twitter.com/its1singhania" target="blank"><img src="https://img.shields.io/twitter/follow/its1singhania?logo=twitter&style=for-the-badge" alt="its1singhania" /></a> </p>
 
